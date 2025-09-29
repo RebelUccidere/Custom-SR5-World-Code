@@ -1,0 +1,123 @@
+<chummer>
+<gears>
+<gear xpathfilter="source = 'HT' or source='RG' or source='GH3' or source='KK' or source='TSG' or source='AP' or source='SL' or source='LCD' or source='CA' or source='DT' or source='KC'">
+<hide amendoperation="addnode"/>
+</gear>
+<gear>
+<name>Meta Link</name>
+<hide/>
+</gear>
+<gear>
+<name>Sony Emperor</name>
+<hide/>
+</gear>
+<gear>
+<name>Hermes Ikon</name>
+<hide/>
+</gear>
+<gear>
+<name>Transys Avalon</name>
+<hide/>
+</gear>
+<gear>
+<name>Spinrad Industries Trompe L'Oeil</name>
+<hide/>
+</gear>
+<gear>
+<name>Fairlight Caliban</name>
+<hide/>
+</gear>
+<gear>
+<name>Renraku Sensei</name>
+<hide/>
+</gear>
+<gear>
+<name>Shiawase Jishi</name>
+<hide/>
+</gear>
+<gear>
+<name>Erika Elite</name>
+<hide/>
+</gear>
+<gear>
+<name>Crystal Leviathan Shatterstar</name>
+<hide/>
+</gear>
+<gear>
+<name>Erika MCD-1</name>
+<hide/>
+</gear>
+<gear>
+<name>Fairlight Excalibur</name>
+<hide/>
+</gear>
+<gear>
+<name>Hermes Chariot</name>
+<hide/>
+</gear>
+<gear>
+<name>Microdeck Summit</name>
+<hide/>
+</gear>
+<gear>
+<name>Microtrónica Azteca 200</name>
+<hide/>
+</gear>
+<gear>
+<name>Novatech Navigator</name>
+<hide/>
+</gear>
+<gear>
+<name>Renraku Tsurugi</name>
+<hide/>
+</gear>
+<gear>
+<name>Shiawase Cyber-5</name>
+<hide/>
+</gear>
+<gear>
+<name>Sony CIY-720</name>
+<hide/>
+</gear>
+<gear>
+<name>CompuForce TaskMaster</name>
+<hide/>
+</gear>
+<gear>
+<name>Essy Motors DroneMaster</name>
+<hide/>
+</gear>
+<gear>
+<name>Lone Star Remote Commander</name>
+<hide/>
+</gear>
+<gear>
+<name>Maersk Spider</name>
+<hide/>
+</gear>
+<gear>
+<name>Maser Industrial Electronics</name>
+<hide/>
+</gear>
+<gear>
+<name>MCT Drone Web</name>
+<hide/>
+</gear>
+<gear>
+<name>Proteus Poseidon</name>
+<hide/>
+</gear>
+<gear>
+<name>Radio Shack Remote Controller</name>
+<hide/>
+</gear>
+<gear>
+<name>Triox UberMensch</name>
+<hide/>
+</gear>
+<gear>
+<name>Vulcan Liegelord</name>
+<hide/>
+</gear>
+</gears>
+</chummer>

@@ -1,0 +1,34 @@
+<chummer>
+<gears>
+<gear>
+<id>c8cd6218-e826-41ee-bd26-fdaccce4020b</id>
+<name>Junk Deck (DT, Page 64)</name>
+<category>Cyberdecks</category>
+<rating>0</rating>
+<source>SR5</source>
+<page>5</page>
+<avail>2</avail>
+<capacity>0</capacity>
+<cost>21000</cost>
+<devicerating>1</devicerating>
+<attributearray>2,2,1,1</attributearray>
+<programs>1</programs>
+<canformpersona>Self</canformpersona>
+<gears>
+<usegear>
+<name>Sim Module, Hot</name>
+<category>Commlink Accessories</category>
+</usegear>
+<usegear>
+<name>Universal Connector Cord</name>
+<category>Tools</category>
+<rating>1</rating>
+</usegear>
+<usegear>
+<name>Commlink Functionality</name>
+<category>Electronics Accessories</category>
+</usegear>
+</gears>
+</gear>
+</gears>
+</chummer>
