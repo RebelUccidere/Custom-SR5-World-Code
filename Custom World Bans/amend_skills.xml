@@ -15,62 +15,50 @@
 </specs>
 </skill>
 <skill>
-<id>f43b2a75-a556-4d3a-8f8b-f1615a78538c</id>
 <name>Anishinaabe</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>05eb2251-81aa-4dfb-8619-75102fc7b895</id>
 <name>Arabic</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>3ea2eb75-69d3-4ecd-9f63-6dfc690cadf8</id>
 <name>Area Knowledge: Atlanta</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>ad99dbbc-e1b3-46a2-82cc-8f5ec4bfbed2</id>
 <name>Area Knowledge: Cheyenne</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>4952de53-b333-45cd-bceb-cffe57b1e5a6</id>
 <name>Area Knowledge: Denver</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>67885d5a-4e26-40d9-8196-eebc7a2e49ec</id>
 <name>Area Knowledge: FDC</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>8337e83f-af9a-4396-9cbe-0e6679e15b4e</id>
 <name>Area Knowledge: Hong Kong</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>7041437e-b98b-4605-a95a-c93ed45f1de5</id>
 <name>Area Knowledge: LA</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>eec57f7e-0e91-4a58-8b0e-5d3de98b7b44</id>
 <name>Area Knowledge: Manhattan</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>8879baa1-4e10-4667-bd00-62f4f594dbbb</id>
 <name>Area Knowledge: Neo-Tokyo</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>f9f9badb-0f5e-4662-8b34-fdd8e2994caa</id>
 <name>Area Knowledge: Portland</name>
 <hide amendoperation="addnode"/>
 </skill>
 <skill>
-<id>822b059f-c132-45ee-8c0b-df6912d5c862</id>
 <name>Area Knowledge: Seattle</name>
 <hide amendoperation="addnode"/>
 </skill>
