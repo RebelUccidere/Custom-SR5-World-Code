@@ -1,5 +1,5 @@
 <chummer>
-<knowledgeskills>
+<skills>
 <skill>
 <id>40d28f1b-2171-4a3b-a640-6b097a4dea95</id>
 <name>Alcohol</name>
@@ -918,5 +918,5 @@
 <name>Zuni</name>
 <hide amendoperation="addnode"/>
 </skill>
-</knowledgeskills>
+</skills>
 </chummer>
