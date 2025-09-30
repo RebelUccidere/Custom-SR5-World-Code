@@ -12,5 +12,8 @@
  <tradition  xpathfilter="source = 'HT'">
       <hide addifnotfound="True" />
 </tradition>
+  <tradition  xpathfilter="source = 'SFME'">
+      <hide addifnotfound="True" />
+</tradition>
 </traditions>
 </chummer>
