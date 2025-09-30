@@ -39,6 +39,36 @@
          <gear  xpathfilter="source = 'BB' and category ='Drugs'">
       <hide addifnotfound="True" />
 </gear>
+          <gear  xpathfilter="source = 'BB' and category ='Biotech'">
+      <hide addifnotfound="True" />
+</gear>
+           <gear  xpathfilter="source = 'BB' and category ='Toxins'">
+      <hide addifnotfound="True" />
+</gear>
+            <gear  xpathfilter="source = 'SS' and category ='Toxins'">
+      <hide addifnotfound="True" />
+</gear>
+             <gear  xpathfilter="source = 'HT' and category ='Toxins'">
+      <hide addifnotfound="True" />
+</gear>
+           <gear  xpathfilter="source = 'KK' and category ='Ammunition'">
+      <hide addifnotfound="True" />
+</gear>
+            <gear  xpathfilter="source = 'HT' and category ='Ammunition'">
+      <hide addifnotfound="True" />
+             </gear>
+            <gear  xpathfilter="source = 'KC' and category ='Ammunition'">
+      <hide addifnotfound="True" />
+                          </gear>
+            <gear  xpathfilter="source = 'SL' and category ='Ammunition'">
+      <hide addifnotfound="True" />
+</gear>
+             <gear  xpathfilter="source = 'CA' and category ='Contracts/Upkeep'">
+      <hide addifnotfound="True" />
+</gear>
+              <gear  xpathfilter="source = 'CA' and category ='Tailored Perfume/Cologne'">
+      <hide addifnotfound="True" />
+</gear>
 <gear>
 <name>Meta Link</name>
 <hide/>
@@ -155,6 +185,13 @@
 <name>Vulcan Liegelord</name>
 <hide/>
 </gear>
+ <gear>
+<name>Ammo: Taurus Omni-6 Heavy</name>
+<hide/>
+</gear>
+  <gear>
+ <name>HMHVV II Inhibitor</name>
+<hide/>
+</gear>
 </gears>
 </chummer>
-
