@@ -1,4 +1,4 @@
-<manifestxmlns=""xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema ../manifest.xsd">
+<manifest xmlns=""xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema ../manifest.xsd">
 	<guid>f552df77-8de0-4a2b-b1e1-8c28fb7399bf</guid>
 	<version>1</version>
 	<authors>
@@ -14,3 +14,4 @@
 		</description>
 	</descriptions>
 </manifest>
+
