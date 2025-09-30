@@ -7,7 +7,7 @@
 <category>Interest</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Beers</spec>
 <spec>Coolers</spec>
 <spec>Hard Liquor</spec>
@@ -81,7 +81,7 @@
 <category>Academic</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -96,7 +96,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Awakened</spec>
 <spec>Biker</spec>
 <spec>Corporate</spec>
@@ -133,7 +133,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -153,7 +153,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -168,7 +168,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>High-Class</spec>
 <spec>Low-Class</spec>
 </specs>
@@ -185,7 +185,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Hacking</spec>
 <spec>Magic</spec>
 <spec>Matrix</spec>
@@ -199,7 +199,7 @@
 <category>Academic</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Micro-economics</spec>
 <spec>Corporate</spec>
 <spec>Tribal</spec>
@@ -223,7 +223,7 @@
 <category>Interest</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -233,7 +233,7 @@
 <category>Professional</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -248,7 +248,7 @@
 <category>Interest</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -258,7 +258,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -278,7 +278,7 @@
 <category>Academic</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Ancient</spec>
 <spec>Medieval</spec>
 <spec>Modern</spec>
@@ -338,7 +338,7 @@
 <category>Academic</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -353,7 +353,7 @@
 <category>Interest</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -373,7 +373,7 @@
 <category>Professional</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -383,7 +383,7 @@
 <category>Interest</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Business</spec>
 <spec>Entertainment</spec>
 <spec>Health</spec>
@@ -405,7 +405,7 @@
 <category>Academic</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Spirits</spec>
 </specs>
 </skill>
@@ -426,7 +426,7 @@
 <category>Academic</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Corporate</spec>
 <spec>Military</spec>
 <spec>Social</spec>
@@ -451,7 +451,7 @@
 <category>Academic</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -466,7 +466,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -491,7 +491,7 @@
 <category>Interest</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Baseball</spec>
 <spec>Basketball</spec>
 <spec>Boxing</spec>
@@ -516,7 +516,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -526,7 +526,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -536,7 +536,7 @@
 <category>Interest</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>BTLs</spec>
 </specs>
 </skill>
@@ -547,7 +547,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Personalities</spec>
 <spec>Ghost Cartels</spec>
 <spec>Mafia</spec>
@@ -573,7 +573,7 @@
 <category>Interest</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Action</spec>
 <spec>Comedy</spec>
 <spec>Cop</spec>
@@ -600,7 +600,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Arson</spec>
 <spec>Black Magic</spec>
 <spec>Black Market Pipeline</spec>
@@ -642,7 +642,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Turf</spec>
 <spec>Politics</spec>
 <spec>Signs</spec>
@@ -668,7 +668,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -678,7 +678,7 @@
 <category>Interest</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>Fine Arts</spec>
 <spec>Beers</spec>
 <spec>Cuisines</spec>
@@ -815,7 +815,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -825,7 +825,7 @@
 <category>Professional</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>[Jurisdiction]</spec>
 </specs>
 </skill>
@@ -836,7 +836,7 @@
 <category>Academic</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
@@ -861,7 +861,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 <spec>[group]</spec>
 </specs>
 </skill>
@@ -872,7 +872,7 @@
 <category>Street</category>
 <default>False</default>
 <skillgroup/>
-<specs>
+<specs amendoperation="replace">
 </specs>
 </skill>
 <skill>
