@@ -8,10 +8,10 @@
     </metatype>
   </metatypes>
   <metavarients>
-    <metavarientxpathfilter="source = 'DT'">
+    <metavarient xpathfilter="source = 'DT'">
       <hide addifnotfound="True"/>
     </metavarient>
-    <metavarientxpathfilter="source = 'RF'">
+    <metavarient xpathfilter="source = 'RF'">
       <hide addifnotfound="True"/>
     </metavarient>
   </metavarients>
