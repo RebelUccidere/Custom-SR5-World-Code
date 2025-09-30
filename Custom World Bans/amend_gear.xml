@@ -1,7 +1,43 @@
 <chummer>
 <gears>
-<gear xpathfilter="source = 'HT' or source='RG' or source='GH3' or source='KK' or source='TSG' or source='AP' or source='SL' or source='LCD' or source='CA' or source='DT' or source='KC'">
-<hide amendoperation="addnode"/>
+ <gear  xpathfilter="source = 'DT' and category ='Commlinks'">
+      <hide addifnotfound="True" />
+    </gear>
+   <gear  xpathfilter="source = 'KC' and category ='Commlinks'">
+      <hide addifnotfound="True" />
+</gear>
+     <gear  xpathfilter="source = 'CF' and category ='Commlinks'">
+      <hide addifnotfound="True" />
+</gear>
+       <gear  xpathfilter="source = 'LCD' and category ='Commlinks'">
+      <hide addifnotfound="True" />
+</gear>
+   <gear  xpathfilter="source = 'DT' and category ='Cyberdecks'">
+      <hide addifnotfound="True" />
+    </gear>
+   <gear  xpathfilter="source = 'KC' and category ='Cyberdecks'">
+      <hide addifnotfound="True" />
+</gear>
+     <gear  xpathfilter="source = 'CF' and category ='Cyberdecks'">
+      <hide addifnotfound="True" />
+</gear>
+       <gear  xpathfilter="source = 'LCD' and category ='Cyberdecks'">
+      <hide addifnotfound="True" />
+</gear>
+     <gear  xpathfilter="source = 'KC' and category ='Rigger Command Consoles'">
+      <hide addifnotfound="True" />
+</gear>
+       <gear  xpathfilter="source = 'RF' and category ='Currency'">
+      <hide addifnotfound="True" />
+         </gear>
+     <gear  xpathfilter="source = 'CF' and category ='Drugs'">
+      <hide addifnotfound="True" />
+</gear>
+       <gear  xpathfilter="source = 'LCD' and category ='Drugs'">
+      <hide addifnotfound="True" />
+</gear>
+         <gear  xpathfilter="source = 'BB' and category ='Drugs'">
+      <hide addifnotfound="True" />
 </gear>
 <gear>
 <name>Meta Link</name>
@@ -121,3 +157,4 @@
 </gear>
 </gears>
 </chummer>
+
