@@ -7,4 +7,12 @@
       <hide addifnotfound="True"/>
     </metatype>
   </metatypes>
+  <metavarients>
+    <metavarientxpathfilter="source = 'DT'">
+      <hide addifnotfound="True"/>
+    </metavarient>
+    <metavarientxpathfilter="source = 'RF'">
+      <hide addifnotfound="True"/>
+    </metavarient>
+  </metavarients>
 </chummer>
