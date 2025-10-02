@@ -15,5 +15,37 @@
         </metavarient>
       </metavariants>
     </metatype>
+     <metatype>
+      <name>Elf</name>
+      <metavariants>
+        <metavarient xpathfilter="source = 'RF'">
+          <hide addifnotfound="True"/>
+        </metavarient>
+      </metavariants>
+    </metatype>
+    <metatype>
+      <name>Troll</name>
+      <metavariants>
+        <metavarient xpathfilter="source = 'RF'">
+          <hide addifnotfound="True"/>
+        </metavarient>
+      </metavariants>
+    </metatype>
+    <metatype>
+      <name>Ork</name>
+      <metavariants>
+        <metavarient xpathfilter="source = 'RF'">
+          <hide addifnotfound="True"/>
+        </metavarient>
+      </metavariants>
+    </metatype>
+        <metatype>
+      <name>Dwarf</name>
+      <metavariants>
+        <metavarient xpathfilter="source = 'RF'">
+          <hide addifnotfound="True"/>
+        </metavarient>
+      </metavariants>
+    </metatype>
   </metatypes>
 </chummer>
