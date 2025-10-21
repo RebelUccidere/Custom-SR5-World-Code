@@ -28,5 +28,20 @@
                 <spiritmanipulation>Spirit of Fire</spiritmanipulation>
             </spirits>
         </tradition>
+        <tradition>
+            <id>cc9f9b43-ef41-4581-8f9c-e1000e5a1578</id>
+            <name>Psionic (SSP 5)</name>
+            <drain>{WIL} + {INT}</drain>
+            <source>SR5</source>
+            <page>5</page>
+            <spiritform>Possession</spiritform>
+            <spirits>
+                <spiritcombat>Spirit of Fire</spiritcombat>
+                <spiritdetection>Spirit of Air</spiritdetection>
+                <spirithealth>Spirit of Man</spirithealth>
+                <spiritillusion>Guidance Spirit</spiritillusion>
+                <spiritmanipulation>Task Spirit</spiritmanipulation>
+            </spirits>
+        </tradition>
     </traditions>
 </chummer>
